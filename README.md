@@ -1,1 +1,1 @@
-# Get_mouse-position-and-RGB-
+# Get_mouse-position-and-RGB
